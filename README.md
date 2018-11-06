@@ -2,7 +2,7 @@
 
 <em>Contents:</em>
 
-### UNHCR Refugee Data
+## UNHCR Refugee Data
 Using data provided by the UNHCR on asylees and refugees migration from 2000 through 2016, I tried to create models to accurately predict acceptance percentage on a per group basis.
 
 Accompanying slide deck <a href="https://docs.google.com/presentation/d/1wMxDIRes806xUZvFiy-JeE9iJjJdNsCAsewfcvzHAfs/edit?usp=sharing">here</a>.
@@ -23,11 +23,13 @@ Though some traits have slightly more correlation with higher acceptance rates, 
 
 <hr />
 
-### Blog Authors
+## Blog Authors
 Using nltk and spacy, I predicted the author of blog posts from a corpus of blogs of approximately 200 authors.
 
+<hr />
 
-### Hate in USA
+
+## Hate in USA
 Does the presence of hate groups in a city or a state increase the number of hate crimes in the USA? What patterns of growth or decline are apparent in different hate group categories?
 
 Using data from the FBI and the Southern Poverty Law Center, a hate group watchdog, I set out to analyze patterns of hate groups, hate crimes, and answer these questions. 
